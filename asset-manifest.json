@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactjs-vbank/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/reactjs-vbank/static/js/main.e7590ba9.chunk.js",
+    "main.js.map": "/reactjs-vbank/static/js/main.e7590ba9.chunk.js.map",
+    "runtime-main.js": "/reactjs-vbank/static/js/runtime-main.9dd7b134.js",
+    "runtime-main.js.map": "/reactjs-vbank/static/js/runtime-main.9dd7b134.js.map",
+    "static/js/2.20076cd4.chunk.js": "/reactjs-vbank/static/js/2.20076cd4.chunk.js",
+    "static/js/2.20076cd4.chunk.js.map": "/reactjs-vbank/static/js/2.20076cd4.chunk.js.map",
+    "index.html": "/reactjs-vbank/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/reactjs-vbank/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.20076cd4.chunk.js.LICENSE.txt": "/reactjs-vbank/static/js/2.20076cd4.chunk.js.LICENSE.txt",
+    "static/media/Green-svg-1.8a93be5d.svg": "/reactjs-vbank/static/media/Green-svg-1.8a93be5d.svg",
+    "static/media/Green-svg-2.0d5eafcf.svg": "/reactjs-vbank/static/media/Green-svg-2.0d5eafcf.svg",
+    "static/media/Green-svg-3.bc3759bc.svg": "/reactjs-vbank/static/media/Green-svg-3.bc3759bc.svg",
+    "static/media/Green.d48e2181.mp4": "/reactjs-vbank/static/media/Green.d48e2181.mp4",
+    "static/media/Orange-svg-1.5f152453.svg": "/reactjs-vbank/static/media/Orange-svg-1.5f152453.svg",
+    "static/media/Orange-svg-2.db4b964e.svg": "/reactjs-vbank/static/media/Orange-svg-2.db4b964e.svg",
+    "static/media/Orange-svg-3.195fbf1d.svg": "/reactjs-vbank/static/media/Orange-svg-3.195fbf1d.svg",
+    "static/media/Orange.98b06290.mp4": "/reactjs-vbank/static/media/Orange.98b06290.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dd7b134.js",
+    "static/js/2.20076cd4.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.e7590ba9.chunk.js"
+  ]
+}
